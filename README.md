@@ -4,7 +4,7 @@ Collaboratively, each team will build the same website for the **Determined** pr
 
 ## Objective
 
-Collaboratively create a website for the **Determined** project. The design of the website and contents have been created by our community partners and can be found in [this presentation](https://www.canva.com/design/DAGVo3IPoCw/uAjYA68088zE2myqO3DRbA/view?utm_content=DAGVo3IPoCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb676cd3008). Your task is to implement the website that has been presented, with design enhancements only when neccessary. If some information is unavailable, it is also fine to use placeholder values/information (e.g., points) -- you do not need to do research on the subject to ensure accurate information.
+Collaboratively create a website for the **Determined** project. The design of the website and contents have been created by our community partners and can be found in [this presentation](https://www.canva.com/design/DAGVo3IPoCw/uAjYA68088zE2myqO3DRbA/view?utm_content=DAGVo3IPoCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb676cd3008) (also, see attached PDF handout). Your task is to implement the website that has been presented, with design enhancements only when neccessary. If some information is unavailable, it is also fine to use placeholder values/information (e.g., points) -- you do not need to do research on the subject to ensure accurate information.
 
 ## Overview
 
