@@ -4,7 +4,9 @@ Collaboratively, each team will build the same website for the **Determined** pr
 
 ## Objective
 
-Collaboratively create a website for the **Determined** project. The design of the website and contents have been created by our community partners and can be found in [this presentation](https://www.canva.com/design/DAGVo3IPoCw/uAjYA68088zE2myqO3DRbA/view?utm_content=DAGVo3IPoCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb676cd3008) (also, see attached PDF handout). Your task is to implement the website that has been presented, with design enhancements only when neccessary. If some information is unavailable, it is also fine to use placeholder values/information (e.g., points) -- you do not need to do research on the subject to ensure accurate information.
+Collaboratively create a website for the **Determined** project. The design of the website and contents have been created by our community partners and can be found in [this presentation](https://www.canva.com/design/DAGVo3IPoCw/uAjYA68088zE2myqO3DRbA/view?utm_content=DAGVo3IPoCw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb676cd3008) (also, see attached PDF handout). 
+Your task is to implement the website that has been presented, with design enhancements only when neccessary. 
+If some information is unavailable, it is also fine to use placeholder values/information (e.g., points) -- you do not need to do research on the subject to ensure accurate information, you just have to ensure full functionality.
 
 ## Overview
 
@@ -52,7 +54,9 @@ The project learning outcomes apply to all course and distribution learning outc
 
 ## Project Milestones
 
-Project milestones will be conducted in two sprints with the speicific tasks undertaken in each sprint primarily determined by each team. Roughly half of the website tasks should be finished by the end of sprint 1. It is each team's responsibility to manage the tasks
+Project milestones will be conducted in two sprints with the specific tasks undertaken in each sprint primarily determined by each team. 
+Roughly half of the website tasks should be finished by the end of sprint 1 and final draft of the website must be finished by April 28th. 
+It is each team's responsibility to manage the tasks to ensure the project completion.
 
 ### Sprint 1
 ### DUE: April 4, 2025 by 10am
@@ -66,7 +70,7 @@ Project milestones will be conducted in two sprints with the speicific tasks und
 
 - **Key Dates:**
   - April 14th, 2:30pm: Review of the website progress (must have majority of the functionality)
-  - April 28th, 2:30pm: Presentation (website should be complete minus some minor enhancements) 
+  - April 28th, 2:30pm: Presentation of the final website draft (website should be complete minus some minor enhancements) 
   - May 5th, by 9am: Submit the final version of the website with all feedback addressed
 
 - **Development Process:**
