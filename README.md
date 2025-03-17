@@ -36,7 +36,7 @@ The project learning outcomes apply to all course and distribution learning outc
   - **SP: Scientific Process & Knowledge (SP):**
     - Demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
 
-## Requirements gathered from class
+## Requirements gathered by class
 - **Purpose**: Create a "substance use empathy" game inspired by text-based or scenario-driven formats (e.g., Oregon Trail, Spent).
 - **Audience**: Primarily high school and college students, plus general community workshop participants.
 - **Key Pages**: Home/landing, About, Resources, Settings, Character creation/selection, Game scenario pages.
