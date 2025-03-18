@@ -73,12 +73,12 @@ It is each team's responsibility to manage the tasks to ensure the project compl
   - April 28th, 2:30pm: Presentation of the final website draft (website should be complete minus some minor enhancements) 
   - May 5th, by 9am: Submit the final version of the website with all feedback addressed
 
-- **Development Process:**
-  - Create a project board 
-  - Create and manage issues in your project 3 repo
-  - Link issues to your project board
-  - Use branching strategy with pull requests
-  - Minimum of 2 team member reviews per PR
+### Development Process:
+- Create a project board 
+- Create and manage issues in your project 3 repo
+- Link issues to your project board
+- Use branching strategy with pull requests
+- Minimum of 2 team member reviews per PR
 
 ## Assessment Criteria
 
