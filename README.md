@@ -59,11 +59,11 @@ Roughly half of the website tasks should be finished by the end of sprint 1 and 
 It is each team's responsibility to manage the tasks to ensure the project completion.
 
 ### Sprint 1
-### DUE: April 7, 2025 by 2:30pm
+### DUE: April 9, 2025 by 10am
 
 - **Key Dates:**
   - March 24th, 10am: Review of the website requirements
-  - April 7th, 2:30pm: Review of the website progress
+  - April 9th, 10am: Submit final Sprint 1 Work
 
 ### Sprint 2
 ### DUE: May 5, 2025 by 9am
